@@ -1,2 +1,2 @@
 # PythonStudyProject
-# pythonProject1
+python学习笔记 2024/07/28
